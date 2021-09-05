@@ -31,7 +31,7 @@
 
 [<img align="left" alt="candeve | postgre" width="22px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/postgresql.svg" />][postgre]
 [<img align="left" alt="candeve | mysql" width="22px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/mysql.svg" />][mysql]
-[<img align="left" alt="candeve | mongo" width="22px" src="https://raw.githubusercontent.com/notCan/notCan/main/assets/software/mongodb.png" />][mongo]
+[<img align="left" alt="candeve | mongo" width="22px" src="https://raw.githubusercontent.com/notCan/notCan/fa824189fdcc035a987473a53b02aa8b4506b367/assets/software/mongodb.svg" />][mongo]
 
 <br/>
 <br/>
