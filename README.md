@@ -102,7 +102,7 @@
 [gmail]: devecann@gmail.com
 [linkedin]: https://linkedin.com/in/candeve
 [instagram]: https://www.instagram.com/ekrem.caan/
-[telegram]: t.me/nottCan
+[telegram]: @nottCan
 [discord]: notCan#8917
 
 [hackerrank]: https://www.hackerrank.com/notCan
