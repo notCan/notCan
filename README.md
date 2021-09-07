@@ -50,6 +50,9 @@
 [<img align="left" alt="candeve | docker" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/docker.svg" />][docker]
 [<img align="left" alt="candeve | npm" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/npm.svg" />][npm]
 [<img align="left" alt="candeve | premiere" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/premiere.svg" />][premiere]
+
+<br/>
+
 [<img align="left" alt="candeve | xd" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/xd.svg" />][xd]
 [<img align="left" alt="candeve | postman" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/fe5e49719a69852d2ce0afe95c7a6f5223361b0d/assets/tech/postman.svg" />][postman]
 [<img align="left" alt="candeve | insomnia" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/48c4dd70e09df8c0eed94b94464f43b791c84806/assets/tech/insomnia.svg" />][insomnia]
