@@ -63,6 +63,7 @@
 [<img align="left" alt="candeve | springboot" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/springboot.svg" />][springboot]
 [<img align="left" alt="candeve | docker" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/docker.svg" />][docker]
 [<img align="left" alt="candeve | nginx" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/nginx.svg" />][nginx]
+[<img align="left" alt="candeve | graphql" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/fe1cb457bd0165cd35c135fb3a6e29500cdafb67/assets/software/graphql.svg" />][graphql]
 
 <br/>
 
@@ -151,3 +152,4 @@
 [trello]: https://trello.com
 [premiere]: https://www.adobe.com/tr/products/premiere.html
 [xd]: https://www.adobe.com/tr/products/xd.html
+[graphql]: https://graphql.org
