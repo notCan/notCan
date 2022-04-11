@@ -69,10 +69,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="candeve | Gmail" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/gmail.svg" />][gmail]
 [<img align="left" alt="candeve | LinkedIn" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/linkedin.svg" />][linkedin]
 [<img align="left" alt="candeve | Instagram" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/instagram.svg" />][instagram]
-[<img align="left" alt="candeve | Telegram" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/telegram.svg" />][telegram]
 [<img align="left" alt="candeve | Discord" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/discord.svg" />][discord]
 
 <br/>
@@ -100,11 +98,9 @@
 <br />
 <br />
 
-[gmail]: devecann@gmail.com
 [linkedin]: https://linkedin.com/in/candeve
-[instagram]: https://www.instagram.com/ekrem.caan/
-[telegram]: @nottCan
-[discord]: notCan#8917
+[instagram]: https://www.instagram.com/devecann/
+[discord]: https://discord.gg/yPzrs4gX9F
 
 [hackerrank]: https://www.hackerrank.com/notCan
 [stackoverflow]: https://stackoverflow.com/users/12584859/notcan
