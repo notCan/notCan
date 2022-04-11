@@ -8,11 +8,8 @@
 ### Languages and technologies I have worked with
 
 [<img align="left" alt="candeve | dart" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/dart.svg" />][dart]
-[<img align="left" alt="candeve | java" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/java.svg" />][java]
 [<img align="left" alt="candeve | javascript" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/javascript.svg" />][javascript]
 [<img align="left" alt="candeve | typescript" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/typescript.svg" />][typescript]
-[<img align="left" alt="candeve | c" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/c.svg" />][c]
-[<img align="left" alt="candeve | c-sharp" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/c-sharp.svg" />][c-sharp]
 [<img align="left" alt="candeve | html" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/html-5.svg" />][html]
 [<img align="left" alt="candeve | css" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/css-3.svg" />][css]
 
@@ -20,9 +17,10 @@
 <br/>
 
 
-[<img align="left" alt="candeve | flutter" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/flutter.svg" />][flutter]
-[<img align="left" alt="candeve | nestjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nestjs.svg" />][nestjs]
 [<img align="left" alt="candeve | nodejs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nodejs.svg" />][nodejs]
+[<img align="left" alt="candeve | nestjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nestjs.svg" />][nestjs]
+[<img align="left" alt="candeve | vuejs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/vuejs.svg" />][vuejs]
+[<img align="left" alt="candeve | flutter" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/flutter.svg" />][flutter]
 [<img align="left" alt="candeve | bootstrap" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/bootstrap-5.svg" />][bootstrap]
 
 <br/>
@@ -46,20 +44,22 @@
 [<img align="left" alt="candeve | gitlab" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/gitlab.svg" />][gitlab]
 [<img align="left" alt="candeve | bitbucket" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/bitbucket.svg" />][bitbucket]
 [<img align="left" alt="candeve | trello" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/trello.svg" />][trello]
-[<img align="left" alt="candeve | aseprite" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/aseprite.png" />][aseprite]
 [<img align="left" alt="candeve | docker" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/docker.svg" />][docker]
-[<img align="left" alt="candeve | npm" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/npm.svg" />][npm]
-[<img align="left" alt="candeve | premiere" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/premiere.svg" />][premiere]
-[<img align="left" alt="candeve | xd" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/xd.svg" />][xd]
 [<img align="left" alt="candeve | postman" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/fe5e49719a69852d2ce0afe95c7a6f5223361b0d/assets/tech/postman.svg" />][postman]
 [<img align="left" alt="candeve | insomnia" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/48c4dd70e09df8c0eed94b94464f43b791c84806/assets/tech/insomnia.svg" />][insomnia]
 
 <br/>
 <br/>
 
+[<img align="left" alt="candeve | aseprite" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/aseprite.png" />][aseprite]
+[<img align="left" alt="candeve | premiere" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/premiere.svg" />][premiere]
+[<img align="left" alt="candeve | xd" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/xd.svg" />][xd]
+
+<br/>
+<br/>
+
 ### Things i work to learn
 
-[<img align="left" alt="candeve | vuejs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/vuejs.svg" />][vuejs]
 [<img align="left" alt="candeve | springboot" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/springboot.svg" />][springboot]
 [<img align="left" alt="candeve | docker" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/docker.svg" />][docker]
 [<img align="left" alt="candeve | nginx" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/nginx.svg" />][nginx]
@@ -83,8 +83,6 @@
 [<img align="left" alt="candeve | StackShare" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/stackshare.svg" />][stackshare]
 [<img align="left" alt="candeve | CssBattle" width="40px" height="40px" src="https://raw.githubusercontent.com/notCan/notCan/4c9d73d68a6eb6bd40f41dcacd2c9afe5e0000e2/assets/links/cssbattle.svg" />][cssbattle]
 [<img align="left" alt="candeve | Medium" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/medium.svg" />][medium]
-[<img align="left" alt="candeve | Youtube" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/youtube.svg" />][youtube]
-[<img align="left" alt="candeve | Spotify" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/spotify.svg" />][spotify]
 
 <br />
 <br/>
@@ -143,7 +141,6 @@
 [insomnia]: https://insomnia.rest
 [intellijidea]: https://www.jetbrains.com/idea/
 [nginx]: https://www.nginx.com
-[npm]: https://www.npmjs.com
 [postman]: https://www.postman.com
 [trello]: https://trello.com
 [premiere]: https://www.adobe.com/tr/products/premiere.html
