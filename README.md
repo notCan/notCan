@@ -1,9 +1,10 @@
 ### Hi, I'm Can <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### I'm a Computer Engineer and Software Developer!!
+#### I'm a doomer and Software Developer!!
 
 - 🌱 I’m currently learning everything
-- ⚡ I love pixel art
+- ⚡ I try to draw pixel art
+- ❤️ I love tiny houses
 
 ### Languages and technologies I have worked with
 
@@ -12,6 +13,7 @@
 [<img align="left" alt="candeve | typescript" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/typescript.svg" />][typescript]
 [<img align="left" alt="candeve | html" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/html-5.svg" />][html]
 [<img align="left" alt="candeve | css" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/css-3.svg" />][css]
+
 
 <br/>
 <br/>
@@ -62,26 +64,16 @@
 
 [<img align="left" alt="candeve | springboot" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/springboot.svg" />][springboot]
 [<img align="left" alt="candeve | docker" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/docker.svg" />][docker]
-[<img align="left" alt="candeve | nginx" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/nginx.svg" />][nginx]
 [<img align="left" alt="candeve | graphql" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/fe1cb457bd0165cd35c135fb3a6e29500cdafb67/assets/software/graphql.svg" />][graphql]
 
 <br/>
 
 ### Connect with me
 
+<a target="_blank" href="mailto:devecann@gmail.com"><img align="left" alt="candeve | Gmail" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/82de258c26be1b4381cb15676f72372a3e6a4e6a/assets/links/gmail.svg" /></a>
 [<img align="left" alt="candeve | LinkedIn" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/linkedin.svg" />][linkedin]
 [<img align="left" alt="candeve | Instagram" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/instagram.svg" />][instagram]
 [<img align="left" alt="candeve | Discord" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/discord.svg" />][discord]
-
-<br/>
-<br/>
-
-### Look what i can do
-
-[<img align="left" alt="candeve | HackerRank" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="candeve | StackOverflow" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="candeve | StackShare" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/stackshare.svg" />][stackshare]
-[<img align="left" alt="candeve | CssBattle" width="40px" height="40px" src="https://raw.githubusercontent.com/notCan/notCan/4c9d73d68a6eb6bd40f41dcacd2c9afe5e0000e2/assets/links/cssbattle.svg" />][cssbattle]
 [<img align="left" alt="candeve | Medium" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/medium.svg" />][medium]
 
 <br />
@@ -89,7 +81,7 @@
 
 ### Stats
 
-![notCan's github stats](https://github-readme-stats.vercel.app/api?username=notCan&show_icons=true&theme=dark) ![notCan's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notCan&layout=compact&theme=dark)
+![notCan's github stats](https://github-readme-stats.vercel.app/api?username=notCan&show_icons=true&count_private=true&theme=dark) ![notCan's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notCan&layout=compact&langs_count=8&theme=dark)
 
 ![counter](https://visitor-badge.glitch.me/badge?page_id=notCan.notCan)
 
@@ -100,10 +92,6 @@
 [instagram]: https://www.instagram.com/devecann/
 [discord]: https://discord.gg/yPzrs4gX9F
 
-[hackerrank]: https://www.hackerrank.com/notCan
-[stackoverflow]: https://stackoverflow.com/users/12584859/notcan
-[stackshare]: https://stackshare.io/notCan
-[cssbattle]: https://cssbattle.dev/player/notcan
 [medium]: https://medium.com/@notCan
 [spotify]: https://open.spotify.com/user/candeve06
 [youtube]: https://www.youtube.com/channel/UC6jx_v3E0_vYMxabqSsk8PQ
