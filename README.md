@@ -31,15 +31,12 @@
 <br/>
 
 [<img align="left" alt="candeve | postgre" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/postgresql.svg" />][postgre]
-[<img align="left" alt="candeve | mysql" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/mysql.svg" />][mysql]
 [<img align="left" alt="candeve | mongo" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/fa824189fdcc035a987473a53b02aa8b4506b367/assets/software/mongodb.svg" />][mongo]
 
 <br/>
 <br/>
 
 [<img align="left" alt="candeve | vscode" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/vscode.svg" />][vscode]
-[<img align="left" alt="candeve | atom" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/atom.svg" />][atom]
-[<img align="left" alt="candeve | intellij" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/intellijidea.svg" />][intellijidea]
 [<img align="left" alt="candeve | git" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/git.svg" />][git]
 [<img align="left" alt="candeve | sourcetree" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/sourcetree.svg" />][sourcetree]
 [<img align="left" alt="candeve | github" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/github.svg" />][github]
@@ -47,15 +44,7 @@
 [<img align="left" alt="candeve | bitbucket" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/bitbucket.svg" />][bitbucket]
 [<img align="left" alt="candeve | trello" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/trello.svg" />][trello]
 [<img align="left" alt="candeve | docker" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/docker.svg" />][docker]
-[<img align="left" alt="candeve | postman" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/fe5e49719a69852d2ce0afe95c7a6f5223361b0d/assets/tech/postman.svg" />][postman]
-[<img align="left" alt="candeve | insomnia" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/48c4dd70e09df8c0eed94b94464f43b791c84806/assets/tech/insomnia.svg" />][insomnia]
-
-<br/>
-<br/>
-
 [<img align="left" alt="candeve | aseprite" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/aseprite.png" />][aseprite]
-[<img align="left" alt="candeve | premiere" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/premiere.svg" />][premiere]
-[<img align="left" alt="candeve | xd" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/xd.svg" />][xd]
 
 <br/>
 <br/>
@@ -87,16 +76,12 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/candeve
-[instagram]: https://www.instagram.com/devecann/
 [discord]: https://discord.gg/ER7Cc4VSWQ
 [medium]: https://medium.com/@notCan
-[youtube]: https://www.youtube.com/channel/UC6jx_v3E0_vYMxabqSsk8PQ
 [dart]: https://dart.dev
 [java]: https://www.java.com
 [javascript]: https://www.javascript.com
 [typescript]: https://www.typescriptlang.org
-[c]: https://www.cprogramming.com
-[c-sharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
 [expressjs]: https://expressjs.com/
@@ -110,7 +95,6 @@
 [springboot]: https://spring.io
 [sass]: https://sass-lang.com/
 [postgre]: https://www.postgresql.org
-[mysql]: https://www.mysql.com
 [mongo]: https://www.mongodb.com
 [vscode]: https://code.visualstudio.com
 [git]: https://git-scm.com
@@ -119,13 +103,6 @@
 [gitlab]: https://about.gitlab.com
 [bitbucket]: https://bitbucket.org
 [aseprite]: https://www.aseprite.org
-[atom]: https://atom.io
 [docker]: https://www.docker.com
-[insomnia]: https://insomnia.rest
-[intellijidea]: https://www.jetbrains.com/idea/
-[nginx]: https://www.nginx.com
-[postman]: https://www.postman.com
 [trello]: https://trello.com
-[premiere]: https://www.adobe.com/tr/products/premiere.html
-[xd]: https://www.adobe.com/tr/products/xd.html
 [graphql]: https://graphql.org
