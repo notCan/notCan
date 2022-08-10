@@ -21,13 +21,13 @@
 
 [<img align="left" alt="candeve | nodejs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nodejs.svg" />][nodejs]
 [<img align="left" alt="candeve | nestjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nestjs.svg" />][nestjs]
-[<img align="left" alt="candeve | expressjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/expressjs.png" />][expressjs]
+[<img align="left" alt="candeve | expressjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/main/assets/software/expressjs.png" />][expressjs]
 [<img align="left" alt="candeve | vuejs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/vuejs.svg" />][vuejs]
-[<img align="left" alt="candeve | nuxtjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nuxtjs.png" />][nuxtjs]
-[<img align="left" alt="candeve | tailwind" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/tailwind.png" />][tailwind]
+[<img align="left" alt="candeve | nuxtjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/main/assets/software/nuxtjs.png" />][nuxtjs]
+[<img align="left" alt="candeve | tailwind" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/main/assets/software/tailwind.png" />][tailwind]
 [<img align="left" alt="candeve | flutter" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/flutter.svg" />][flutter]
 [<img align="left" alt="candeve | bootstrap" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/bootstrap-5.svg" />][bootstrap]
-[<img align="left" alt="candeve | sass" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/sass.png" />][sass]
+[<img align="left" alt="candeve | sass" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/main/assets/software/sass.png" />][sass]
 
 <br/>
 <br/>
