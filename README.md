@@ -8,11 +8,11 @@
 
 ### Languages and technologies I have worked with
 
-[<img align="left" alt="candeve | dart" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/dart.svg" />][dart]
-[<img align="left" alt="candeve | javascript" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/javascript.svg" />][javascript]
-[<img align="left" alt="candeve | typescript" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/typescript.svg" />][typescript]
 [<img align="left" alt="candeve | html" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/html-5.svg" />][html]
 [<img align="left" alt="candeve | css" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/css-3.svg" />][css]
+[<img align="left" alt="candeve | javascript" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/javascript.svg" />][javascript]
+[<img align="left" alt="candeve | typescript" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/typescript.svg" />][typescript]
+[<img align="left" alt="candeve | dart" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/dart.svg" />][dart]
 
 
 <br/>
@@ -21,9 +21,13 @@
 
 [<img align="left" alt="candeve | nodejs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nodejs.svg" />][nodejs]
 [<img align="left" alt="candeve | nestjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nestjs.svg" />][nestjs]
+[<img align="left" alt="candeve | expressjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/expressjs.png" />][expressjs]
 [<img align="left" alt="candeve | vuejs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/vuejs.svg" />][vuejs]
+[<img align="left" alt="candeve | nuxtjs" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/nuxtjs.png" />][nuxtjs]
+[<img align="left" alt="candeve | tailwind" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/tailwind.png" />][tailwind]
 [<img align="left" alt="candeve | flutter" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/flutter.svg" />][flutter]
 [<img align="left" alt="candeve | bootstrap" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/bootstrap-5.svg" />][bootstrap]
+[<img align="left" alt="candeve | sass" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/sass.png" />][sass]
 
 <br/>
 <br/>
@@ -63,7 +67,6 @@
 ### Things i work to learn
 
 [<img align="left" alt="candeve | springboot" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/software/springboot.svg" />][springboot]
-[<img align="left" alt="candeve | docker" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/tech/docker.svg" />][docker]
 [<img align="left" alt="candeve | graphql" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/fe1cb457bd0165cd35c135fb3a6e29500cdafb67/assets/software/graphql.svg" />][graphql]
 
 <br/>
@@ -72,7 +75,6 @@
 
 <a target="_blank" href="mailto:devecann@gmail.com"><img align="left" alt="candeve | Gmail" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/82de258c26be1b4381cb15676f72372a3e6a4e6a/assets/links/gmail.svg" /></a>
 [<img align="left" alt="candeve | LinkedIn" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/linkedin.svg" />][linkedin]
-[<img align="left" alt="candeve | Instagram" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/instagram.svg" />][instagram]
 [<img align="left" alt="candeve | Discord" width="30px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/discord.svg" />][discord]
 [<img align="left" alt="candeve | Medium" width="40px" src="https://raw.githubusercontent.com/notCan/notCan/1a26f64d4c3fa7a9ac0d2bd6a42714b61cf1ced4/assets/links/medium.svg" />][medium]
 
@@ -90,10 +92,9 @@
 
 [linkedin]: https://linkedin.com/in/candeve
 [instagram]: https://www.instagram.com/devecann/
-[discord]: https://discord.gg/yPzrs4gX9F
+[discord]: https://discord.gg/ER7Cc4VSWQ
 
 [medium]: https://medium.com/@notCan
-[spotify]: https://open.spotify.com/user/candeve06
 [youtube]: https://www.youtube.com/channel/UC6jx_v3E0_vYMxabqSsk8PQ
 
 [dart]: https://dart.dev
@@ -104,15 +105,16 @@
 [c-sharp]: https://docs.microsoft.com/tr-tr/dotnet/csharp/
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
-[php]: https://www.php.net
-
+[expressjs]: https://expressjs.com/
 [flutter]: https://flutter.dev
 [nestjs]: https://nestjs.com
 [nodejs]: https://nodejs.org
+[tailwind]: https://tailwindcss.com/
 [bootstrap]: https://getbootstrap.com
 [vuejs]: https://vuejs.org
+[nuxtjs]: https://nuxtjs.org/
 [springboot]: https://spring.io
-
+[sass]: https://sass-lang.com/
 [postgre]: https://www.postgresql.org
 [mysql]: https://www.mysql.com
 [mongo]: https://www.mongodb.com
