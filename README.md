@@ -2,7 +2,7 @@
 
 #### I'm a Computer Engineer
 
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning frontend development and jamstack
 - ⚡ I try to draw pixel art
 - ❤️ I love tiny houses
 
