@@ -1,8 +1,8 @@
 ### Hi, I'm Can <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-#### I'm a doomer and Software Developer
+#### I'm a Computer Engineer
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning frontend development
 - ⚡ I try to draw pixel art
 - ❤️ I love tiny houses
 
