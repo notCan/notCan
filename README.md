@@ -41,7 +41,6 @@
 
 <a target="_blank" href="mailto:devecann@gmail.com"><img alt="candeve | Gmail" width="30px" src="./assets/links/gmail.png" /></a>
 [<img alt="candeve | LinkedIn" width="30px" src="./assets/links/linkedin.png" />][linkedin]
-[<img alt="candeve | Discord" width="30px" src="./assets/links/discord.png" />][discord]
 
 ### Stats
 
