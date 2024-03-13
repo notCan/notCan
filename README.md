@@ -42,12 +42,6 @@
 <a target="_blank" href="mailto:devecann@gmail.com"><img alt="candeve | Gmail" width="30px" src="./assets/links/gmail.png" /></a>
 [<img alt="candeve | LinkedIn" width="30px" src="./assets/links/linkedin.png" />][linkedin]
 
-### Stats
-
-![notCan's github stats](https://github-readme-stats.vercel.app/api?username=notCan&show_icons=true&count_private=true&theme=dark) ![notCan's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notCan&layout=compact&langs_count=8&theme=dark)
-
-![counter](https://visitor-badge.glitch.me/badge?page_id=notCan.notCan)
-
 [linkedin]: https://linkedin.com/in/candeve
 [discord]: https://discord.gg/ER7Cc4VSWQ
 [dart]: https://dart.dev
