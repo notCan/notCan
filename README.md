@@ -37,11 +37,6 @@
 [<img alt="candeve | docker" width="40px" src="./assets/tech/docker.svg" />][docker]
 [<img alt="candeve | aseprite" width="40px" src="./assets/tech/aseprite.png" />][aseprite]
 
-### Things i work to learn
-
-[<img alt="candeve | springboot" width="40px" src="./assets/software/springboot.svg" />][springboot]
-[<img alt="candeve | graphql" width="40px" src="./assets/software/graphql.svg" />][graphql]
-
 ### Connect with me
 
 <a target="_blank" href="mailto:devecann@gmail.com"><img alt="candeve | Gmail" width="30px" src="./assets/links/gmail.png" /></a>
