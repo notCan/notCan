@@ -6,69 +6,19 @@
 - ⚡ I try to draw pixel art
 - ❤️ I love tiny houses
 
-### Languages and technologies I have worked with
 
-[<img alt="candeve | html" width="40px" src="./assets/software/html-5.svg" />][html]
-[<img alt="candeve | css" width="40px" src="./assets/software/css-3.svg" />][css]
-[<img alt="candeve | javascript" width="40px" src="./assets/software/javascript.svg" />][javascript]
-[<img alt="candeve | typescript" width="40px" src="./assets/software/typescript.svg" />][typescript]
-[<img alt="candeve | dart" width="40px" src="./assets/software/dart.svg" />][dart]
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/candeve) 
 
-[<img alt="candeve | nodejs" width="40px" src="./assets/software/nodejs.svg" />][nodejs]
-[<img alt="candeve | nestjs" width="40px" src="./assets/software/nestjs.svg" />][nestjs]
-[<img alt="candeve | expressjs" width="40px" src="./assets/software/expressjs.png" />][expressjs]
-[<img alt="candeve | vuejs" width="40px" src="./assets/software/vuejs.svg" />][vuejs]
-[<img alt="candeve | nuxtjs" width="40px" src="./assets/software/nuxtjs.png" />][nuxtjs]
-[<img alt="candeve | tailwind" width="40px" src="./assets/software/tailwind.png" />][tailwind]
-[<img alt="candeve | bootstrap" width="40px" src="./assets/software/bootstrap-5.svg" />][bootstrap]
-[<img alt="candeve | sass" width="40px" src="./assets/software/sass.png" />][sass]
-[<img alt="candeve | flutter" width="40px" src="./assets/software/flutter.svg" />][flutter]
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
-[<img alt="candeve | postgre" width="40px" src="./assets/software/postgresql.svg" />][postgre]
-[<img alt="candeve | mongo" width="40px" src="./assets/software/mongodb.svg" />][mongo]
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=notCan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=notCan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=notCan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[<img alt="candeve | vscode" width="40px" src="./assets/tech/vscode.svg" />][vscode]
-[<img alt="candeve | git" width="40px" src="./assets/tech/git.svg" />][git]
-[<img alt="candeve | sourcetree" width="40px" src="./assets/tech/sourcetree.svg" />][sourcetree]
-[<img alt="candeve | github" width="40px" src="./assets/tech/github.svg" />][github]
-[<img alt="candeve | gitlab" width="40px" src="./assets/tech/gitlab.svg" />][gitlab]
-[<img alt="candeve | bitbucket" width="40px" src="./assets/tech/bitbucket.svg" />][bitbucket]
-[<img alt="candeve | trello" width="40px" src="./assets/tech/trello.svg" />][trello]
-[<img alt="candeve | docker" width="40px" src="./assets/tech/docker.svg" />][docker]
-[<img alt="candeve | aseprite" width="40px" src="./assets/tech/aseprite.png" />][aseprite]
+---
+[![](https://visitcount.itsvg.in/api?id=notCan&icon=7&color=7)](https://visitcount.itsvg.in)
 
-### Connect with me
-
-<a target="_blank" href="mailto:devecann@gmail.com"><img alt="candeve | Gmail" width="30px" src="./assets/links/gmail.png" /></a>
-[<img alt="candeve | LinkedIn" width="30px" src="./assets/links/linkedin.png" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/candeve
-[discord]: https://discord.gg/ER7Cc4VSWQ
-[dart]: https://dart.dev
-[java]: https://www.java.com
-[javascript]: https://www.javascript.com
-[typescript]: https://www.typescriptlang.org
-[html]: https://www.w3schools.com/html/
-[css]: https://www.w3schools.com/css/
-[expressjs]: https://expressjs.com/
-[flutter]: https://flutter.dev
-[nestjs]: https://nestjs.com
-[nodejs]: https://nodejs.org
-[tailwind]: https://tailwindcss.com/
-[bootstrap]: https://getbootstrap.com
-[vuejs]: https://vuejs.org
-[nuxtjs]: https://nuxtjs.org/
-[springboot]: https://spring.io
-[sass]: https://sass-lang.com/
-[postgre]: https://www.postgresql.org
-[mongo]: https://www.mongodb.com
-[vscode]: https://code.visualstudio.com
-[git]: https://git-scm.com
-[sourcetree]: https://www.sourcetreeapp.com
-[github]: https://github.com
-[gitlab]: https://about.gitlab.com
-[bitbucket]: https://bitbucket.org
-[aseprite]: https://www.aseprite.org
-[docker]: https://www.docker.com
-[trello]: https://trello.com
-[graphql]: https://graphql.org
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
